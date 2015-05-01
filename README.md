@@ -1,7 +1,7 @@
 # send-to-s3
 
 ```bash
-$ go get github.com/hawx/send-to-s3
+$ go get hawx.me/code/send-to-s3
 $ echo $AWS_ACCESS_KEY_ID
 ...
 $ echo $AWS_SECRET_ACCESS_KEY
